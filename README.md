@@ -12,7 +12,7 @@
 >Open the project in your IDE<br/>
 >Build the project<br/>
 >Run the project<br/>
->Also check backend for this app here https://github.com/amideo5/react-weather-app-cicd.git
+>Also check frontend for this app here https://github.com/amideo5/react-weather-app-cicd.git
 
 ## Usage
 >To use the application<br/>
